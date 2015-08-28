@@ -1,6 +1,13 @@
 npmethods package
 =================
 
+Subpackages
+-----------
+
+.. toctree::
+
+    npmethods.plotting
+
 Submodules
 ----------
 
